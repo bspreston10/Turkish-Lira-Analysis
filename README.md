@@ -7,7 +7,6 @@ Python | Excel
 - [Baseline Metrics](#baseline-metrics)
 - [Stress Test Scenarios](#stress-test-scenarios)
 - [Monte Carlo Simulations](#monte-carlo-simulations)
-- [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
 
 # Market Overview
@@ -126,28 +125,28 @@ The stress tests are anchored in historical trends observed in 2015, when Turkey
 
 
 # Recommendations
-1. Currency Hedging Strategies
+1. **Currency Hedging Strategies**
 - Implement Forward Contracts: Hedge against the Turkish Lira's depreciation by locking in exchange rates through forward contracts or currency swaps. This protects USD-denominated returns in volatile markets.
 - Use Options for Risk Mitigation: Purchase currency options to limit downside risk while maintaining upside potential. For instance, buying USD call options can hedge against severe TRY depreciation.
 - Dynamic Hedging: Adjust hedge ratios dynamically based on stress scenario triggers, such as widening bid-ask spreads or declining foreign reserves.
 
-2. Diversify into Safe-Haven Assets
+2. **Diversify into Safe-Haven Assets**
 - Increase Allocation to Gold or USD Assets: As TRY volatility rises and inflation erodes value, allocate capital to safe-haven assets like gold, U.S. Treasuries, or major currencies (USD, EUR) to stabilize portfolio returns.
 - Consider Emerging Market Bonds: If Turkey's credit spreads widen further, selectively investing in emerging market bonds with higher yields can balance risk and return.
 
-3. Monitor and Exploit Volatility
+3. **Monitor and Exploit Volatility**
 - Leverage Derivatives: Use volatility-related instruments, such as VIX futures or options, to hedge against heightened market turbulence indicated by the rising Average True Range (ATR) in the scenarios.
 - Arbitrage Opportunities: Monitor bid-ask spreads for arbitrage opportunities in Turkish markets, as market inefficiencies may arise during severe stress scenarios.
 
-4. Reassess Emerging Market Exposures
+4. **Reassess Emerging Market Exposures**
 - Reduce Overexposure to Turkey: Given the significant risk of further TRY depreciation and FDI decline, rebalance portfolios to reduce overexposure to Turkish equities, bonds, or other assets.
 - Selective Emerging Market Allocation: Reallocate to more stable emerging markets with lower geopolitical risk and higher investor confidence.
 
-5. Opportunistic Investments During Stress
+5. **Opportunistic Investments During Stress**
 - Invest in Distressed Assets: Severe stress scenarios may lead to undervaluation in Turkish equities or bonds. Identify distressed opportunities with strong fundamentals but temporary pricing inefficiencies.
 - Infrastructure and Defensive Sectors: Focus on infrastructure projects or defensive sectors (e.g., utilities, consumer staples) less vulnerable to short-term shocks.
 
-6. Capitalize on Inflation-Hedged Assets
+6. **Capitalize on Inflation-Hedged Assets**
 - Shift to Inflation-Protected Instruments: As inflation rises to 2.87% under the severe scenario, consider investing in inflation-linked bonds (e.g., TIPS or Turkish CPI-linked bonds) to preserve purchasing power.
 - Commodities Exposure: Increase allocation to commodities (oil, agricultural goods, or metals) as inflationary pressures often drive demand and prices in these markets.
 
