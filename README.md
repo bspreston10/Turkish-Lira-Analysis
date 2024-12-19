@@ -37,11 +37,31 @@ For actionable strategies to mitigate these risks and stabilize economic conditi
 | Bid-Ask Spread                  | 0.023             |
 | Foreign Exchange Reserves       | 93.36k USD Million|
 | Average True Range (ATR)        | 0.117             |
-| MoM Interest Rate               | 2.69%             |
+| MoM Inflation Rate              | 2.69%             |
 | Foreign Direct Investment (FDI) | 427 USD Million   |
 
 # Stress Test Scenarios
 The stress tests are anchored in historical trends observed in 2015, when Turkey experienced a significant ~150% increase in refugee inflows over a 3-month period. To model the moderate (50%) and high (100%) stress levels, we proportionally scale the impacts observed during the 150% increase, ensuring consistency and comparability across scenarios
 
+## Moderate Stress (50% Increase in Refugees)
+| Metric                          | Value              | % Change from Baseline |
+|---------------------------------|--------------------|------------------------|
+| Net Refugee Balance             | -10,500            | +50%                   |
+| Bid-Ask Spread                  | 0.026              | +10.9%                 |
+| Foreign Exchange Reserves       | 92.05k USD Million | -1.4%                  | 
+| Average True Range (ATR)        | 0.1224             | +4.61%                 |
+| MoM Inflation Rate              | 2.74%              | +1.86%                 |
+| Foreign Direct Investment (FDI) | 414.18 USD Million | -3%                    |
 
+### Implications
+1.	Liquidity Concerns-
+- The 10.9% widening of the bid-ask spread reflects reduced market liquidity and rising transaction costs. This signals early investor caution and could deter future capital inflows if uncertainty persists.
+2.	Rising Volatility:
+- The 4.61% increase in Average True Range (ATR) highlights heightened market volatility, driven by increased risk perception. If economic conditions deteriorate, volatility could escalate further, amplifying market instability.
+3.	Pressure on Reserves:
+- The 1.4% decline in foreign exchange reserves suggests minor but noticeable pressure on Turkey’s ability to defend its currency. Prolonged stress could amplify these pressures, reducing the government’s capacity to stabilize the Lira.
+4.	Inflation Risks:
+- Inflation rises to 2.74% (+1.86%), signaling moderate price pressures stemming from increased resource competition and government spending. Uncontrolled inflation could erode purchasing power and damage investor sentiment.
+5.	Investor Sentiment:
+- The 3% decline in Foreign Direct Investment (FDI) reflects early signs of investor hesitation. If external risks intensify, further declines in FDI could exacerbate economic stagnation and weaken long-term growth prospects.
 
