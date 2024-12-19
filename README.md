@@ -5,7 +5,7 @@ Python | Excel
 - [Market Overview](#market-overview)
 - [Executive Summary](#executive-summary)
 - [Baseline Metrics](#baseline-metrics)
-- [Stress Scenarios](#stress-scenarios)
+- [Stress Test Scenarios](#stress-test-scenarios)
 - [Monte Carlo Simulations](#monte-carlo-simulations)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
