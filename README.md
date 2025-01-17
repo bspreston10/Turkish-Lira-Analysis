@@ -19,16 +19,17 @@ This report focuses on the potential economic and financial risks stemming from 
 # Executive Summary
 This report assesses the economic and financial risks to Turkey’s economy, focusing on the Turkish Lira (TRY), under increasing refugee inflows. Stress testing was conducted to model Moderate (50%), High (100%), and Severe (150%) refugee inflow scenarios. The analysis examines the impact on key financial metrics, including foreign exchange reserves, inflation rates, bid-ask spreads, and TRY volatility.
 Key Findings:
--	Moderate Stress (50%):
+-	**Moderate Stress (50%):**
   -	Early warning signs include a 1.4% decline in reserves and a 10.9% widening of the bid-ask spread, signaling initial market instability.
--	High Stress (100%):
+-	**High Stress (100%):**
   -	These trends accelerate, with reserves falling by 2.79% and spreads widening by 21.7%, indicating escalating investor uncertainty and liquidity concerns.
-  - For actionable strategies to mitigate these risks and stabilize economic conditions, please refer to the Recommendations section of this report.
--	Severe Stress Scenario (150% Increase in Refugees):
+-	**Severe Stress Scenario (150% Increase in Refugees):**
   -	The Turkish Lira depreciates significantly, with the TRY closing price rising from $34.24 to ~$40.00, a 16.8% decline against the USD.
   -	Foreign Exchange Reserves deplete by 4.2%, increasing risks of a currency crisis and external funding shortfalls.
   -	Market liquidity deteriorates as the Bid-Ask Spread widens by 33%, reflecting investor flight and elevated transaction costs.
   -	Inflationary pressures intensify, with the MoM inflation rate increasing to 2.87% (+6.7%), exacerbating economic strain.
+
+For actionable strategies to mitigate these risks and stabilize economic conditions, please refer to the Recommendations section of this report.
 
 # Baseline Metrics
 | Metric                          | Value             |
